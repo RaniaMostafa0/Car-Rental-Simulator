@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1656648811 source:c:\users\rania\desktop\cvehicle\src\cvehicle.cpp
+	<iostream>
+	"CVehicle.h"
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+
+1656653332 c:\users\rania\desktop\cvehicle\include\cvehicle.h
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+
+1656648811 source:c:\users\rania\desktop\cvehicle\main.cpp
+	<iostream>
+	"CVehicle.h"
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	"CCustomer.h"
+	"cbus.h"
+
+1656653332 c:\users\rania\desktop\cvehicle\include\ccustomer.h
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+
+1656648811 source:c:\users\rania\desktop\cvehicle\src\ccustomer.cpp
+	<iostream>
+	"CCustomer.h"
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+
+1656648811 source:c:\users\rania\desktop\cvehicle\src\cbus.cpp
+	"cbus.h"
+	"CVehicle.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+
+1656653332 c:\users\rania\desktop\cvehicle\include\cbus.h
+	"CVehicle.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+
